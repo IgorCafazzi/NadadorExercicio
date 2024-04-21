@@ -1,0 +1,10 @@
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\bin\Debug\Nadador.exe.config
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\bin\Debug\Nadador.exe
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\bin\Debug\Nadador.pdb
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.Properties.Resources.resources
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.exe
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.pdb
+C:\Users\Igor\source\repos\NadadorExercicio\Nadador\obj\Debug\Nadador.Form1.resources
